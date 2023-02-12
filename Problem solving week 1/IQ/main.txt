@@ -1,0 +1,5 @@
+t=int(input())
+if t+7>170:
+    print('yes')
+else:
+    print('No')

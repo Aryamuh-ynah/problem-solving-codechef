@@ -1,0 +1,7 @@
+t=int(input())
+for c in range(t):
+    x=int(input())
+    if (x<=15):
+        print('yes')
+    else:
+        print("no")
